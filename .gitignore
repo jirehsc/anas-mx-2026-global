@@ -1,4 +1,5 @@
 .DS_Store
+data_raw/
 *.ndb
 *.nsq
 *.nin
