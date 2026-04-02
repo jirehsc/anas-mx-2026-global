@@ -1,0 +1,5 @@
+,Germany,China,UK,USA
+Hap_1,		2,	5,	3,	81
+Hap_2,		0,	0,	0,	1
+Hap_3,		0,	0,	0,	1
+Hap_4,		0,	1,	0,	0
