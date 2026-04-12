@@ -1,0 +1,6 @@
+	USA	China	UK	Germany
+Hap_1	82	3	3	2
+Hap_2	0	1	0	0
+Hap_3	1	0	0	0
+Hap_4	0	1	0	0
+Hap_5	0	1	0	0
