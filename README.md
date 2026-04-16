@@ -1,2 +1,2 @@
-# anas-mx-2026-global
+# anas-flu-2026-global-biomarkers
 
