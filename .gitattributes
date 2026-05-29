@@ -2,3 +2,4 @@
 * text=auto
 .fasta filter=lfs diff=lfs merge=lfs -text
 .fa filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
